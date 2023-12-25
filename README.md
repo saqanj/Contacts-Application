@@ -1,0 +1,4 @@
+- Utilizes Gradle Wrapper for unit and integration testing. Completed as a part of Trinty College's Data Structures and Algorithms course.
+- All classes implemented by me are adequately Javadocumented with my name.
+- In order to access the application itself instead of the tests, run the main.
+- Access the program under the "src" file.
