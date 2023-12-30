@@ -1,10 +1,9 @@
 - AUTHOR: Saqlain Anjum & Trinity College Computer Science Department
 - DESCRIPTION:
-  - A text editor application using Java. Operates on a line-by-line basis for editing functions.
+  - A directory application made using Java for storing contacts & contact information.
   - Project utilizes Gradle wrapper for integration and unit testing. Completed as a part of Trinity College's Data Structures and Algorithms course.
   - Implemented Classes:
-    - ArraySequence
-    - MyTextEditor
-    - ArraySequenceTest
-    - EditorTest
+    - BinarySearchTreeMap
+    - ContactsApp
+- VERSION: 1.0.0
 - PS: Source code is located under "src" file!
