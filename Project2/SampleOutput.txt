@@ -1,0 +1,997 @@
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 0
+Select a menu choice from 1 to 7.
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: -10000
+Select a menu choice from 1 to 7.
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 2
+Add contact:
+  First name: Bob
+  Last name: Builder
+  Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options: w: bob-the-builder.com, l: builder-man-linkedin.com
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 4
+
+All Contacts
+------------
+Builder, Bob: {WEBSITE=bob-the-builder.com, LINKEDIN=builder-man-linkedin.com}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 5
+
+All Contacts
+------------
+Builder, Bob
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 6
+
+All Contacts
+------------
+{WEBSITE, bob-the-builder.com}{LINKEDIN, builder-man-linkedin.com}
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 3
+Remove contact:
+  First name: Bob
+  Last name: Builder
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 4
+
+All Contacts
+------------
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 5
+
+All Contacts
+------------
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 6
+
+All Contacts
+------------
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 2
+Add contact:
+  First name: Scott
+  Last name: Tingle
+  Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options: l: linkedin.com/in/scott-tingle-90896826
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 2
+Add contact:
+  First name: Jessica
+  Last name: Watkins
+  Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options: email: monica.j.witt@nasa.gov
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 2
+Add contact:
+  First name: Stephanie
+  Last name: Wilson
+  Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options: w: www.nasa.gov/specials/artemis-team/
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 2
+Add contact:
+  First name: Chris
+  Last name: Elliott
+  Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options: f: #thatguy
+Media option in 'f: #thatguy' not recognized.
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 4
+
+All Contacts
+------------
+Tingle, Scott: {LINKEDIN=linkedin.com/in/scott-tingle-90896826}
+Watkins, Jessica: {EMAIL=monica.j.witt@nasa.gov}
+Wilson, Stephanie: {WEBSITE=www.nasa.gov/specials/artemis-team/}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 5
+
+All Contacts
+------------
+Tingle, Scott
+Watkins, Jessica
+Wilson, Stephanie
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 6
+
+All Contacts
+------------
+{LINKEDIN, linkedin.com/in/scott-tingle-90896826}
+{EMAIL, monica.j.witt@nasa.gov}
+{WEBSITE, www.nasa.gov/specials/artemis-team/}
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 2
+Add contact:
+  First name: Chris
+  Last name: Elliott
+  Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options: m: 212-999-1234
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 4
+
+All Contacts
+------------
+Tingle, Scott: {LINKEDIN=linkedin.com/in/scott-tingle-90896826}
+Elliott, Chris: {MOBILE=212-999-1234}
+Watkins, Jessica: {EMAIL=monica.j.witt@nasa.gov}
+Wilson, Stephanie: {WEBSITE=www.nasa.gov/specials/artemis-team/}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 5
+
+All Contacts
+------------
+Tingle, Scott
+Elliott, Chris
+Watkins, Jessica
+Wilson, Stephanie
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 6
+
+All Contacts
+------------
+{LINKEDIN, linkedin.com/in/scott-tingle-90896826}
+{MOBILE, 212-999-1234}
+{EMAIL, monica.j.witt@nasa.gov}
+{WEBSITE, www.nasa.gov/specials/artemis-team/}
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 2
+Add contact:
+  First name: 
+  Last name: 
+The contact's first or last name () was invalid.
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 4
+
+All Contacts
+------------
+Tingle, Scott: {LINKEDIN=linkedin.com/in/scott-tingle-90896826}
+Elliott, Chris: {MOBILE=212-999-1234}
+Watkins, Jessica: {EMAIL=monica.j.witt@nasa.gov}
+Wilson, Stephanie: {WEBSITE=www.nasa.gov/specials/artemis-team/}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 5
+
+All Contacts
+------------
+Tingle, Scott
+Elliott, Chris
+Watkins, Jessica
+Wilson, Stephanie
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 6
+
+All Contacts
+------------
+{LINKEDIN, linkedin.com/in/scott-tingle-90896826}
+{MOBILE, 212-999-1234}
+{EMAIL, monica.j.witt@nasa.gov}
+{WEBSITE, www.nasa.gov/specials/artemis-team/}
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 2
+Add contact:
+  First name: Chris
+  Last name: Elliott
+Do you want to update this contact?
+yes
+Insert new name: 
+  First name: CHRIS
+  Last name: ELLIOTT
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 2
+Add contact:
+  First name: CHRIS
+  Last name: ELLIOTT
+Do you want to update this contact?
+no
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 4
+
+All Contacts
+------------
+Tingle, Scott: {LINKEDIN=linkedin.com/in/scott-tingle-90896826}
+ELLIOTT, CHRIS: {MOBILE=212-999-1234}
+Watkins, Jessica: {EMAIL=monica.j.witt@nasa.gov}
+Wilson, Stephanie: {WEBSITE=www.nasa.gov/specials/artemis-team/}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 5
+
+All Contacts
+------------
+Tingle, Scott
+ELLIOTT, CHRIS
+Watkins, Jessica
+Wilson, Stephanie
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 6
+
+All Contacts
+------------
+{LINKEDIN, linkedin.com/in/scott-tingle-90896826}
+{MOBILE, 212-999-1234}
+{EMAIL, monica.j.witt@nasa.gov}
+{WEBSITE, www.nasa.gov/specials/artemis-team/}
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 1
+Search for contact:
+  First name: Jessica
+  Last name: Watkins 
+Contact Information: {EMAIL=monica.j.witt@nasa.gov}
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 1
+Search for contact:
+  First name: Jessica
+  Last name: Watkinss
+Watkinss, Jessica was not found!
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 1
+Search for contact:
+  First name: 
+  Last name: 
+The contact's first or last name () was invalid.
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 2
+Add contact:
+  First name: random
+  Last name: person
+  Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options: w: random-guy.com
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 4
+
+All Contacts
+------------
+Tingle, Scott: {LINKEDIN=linkedin.com/in/scott-tingle-90896826}
+ELLIOTT, CHRIS: {MOBILE=212-999-1234}
+Watkins, Jessica: {EMAIL=monica.j.witt@nasa.gov}
+Wilson, Stephanie: {WEBSITE=www.nasa.gov/specials/artemis-team/}
+person, random: {WEBSITE=random-guy.com}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 5
+
+All Contacts
+------------
+Tingle, Scott
+ELLIOTT, CHRIS
+Watkins, Jessica
+Wilson, Stephanie
+person, random
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 6
+
+All Contacts
+------------
+{LINKEDIN, linkedin.com/in/scott-tingle-90896826}
+{MOBILE, 212-999-1234}
+{EMAIL, monica.j.witt@nasa.gov}
+{WEBSITE, www.nasa.gov/specials/artemis-team/}
+{WEBSITE, random-guy.com}
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 2
+Add contact:
+  First name: randomm
+  Last name: personnnn
+  Communication options example: website: www.oceanfutures.org, m: 805-899-8899
+  Communication options: w: randommer-person.com
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 3
+Remove contact:
+  First name: random
+  Last name: person
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 4
+
+All Contacts
+------------
+Tingle, Scott: {LINKEDIN=linkedin.com/in/scott-tingle-90896826}
+ELLIOTT, CHRIS: {MOBILE=212-999-1234}
+Watkins, Jessica: {EMAIL=monica.j.witt@nasa.gov}
+Wilson, Stephanie: {WEBSITE=www.nasa.gov/specials/artemis-team/}
+personnnn, randomm: {WEBSITE=randommer-person.com}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 5
+
+All Contacts
+------------
+Tingle, Scott
+ELLIOTT, CHRIS
+Watkins, Jessica
+Wilson, Stephanie
+personnnn, randomm
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 6
+
+All Contacts
+------------
+{LINKEDIN, linkedin.com/in/scott-tingle-90896826}
+{MOBILE, 212-999-1234}
+{EMAIL, monica.j.witt@nasa.gov}
+{WEBSITE, www.nasa.gov/specials/artemis-team/}
+{WEBSITE, randommer-person.com}
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 3
+Remove contact:
+  First name: RANDOM
+  Last name: PERSON
+ERROR: CONTACT NOT FOUND!
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 4
+
+All Contacts
+------------
+Tingle, Scott: {LINKEDIN=linkedin.com/in/scott-tingle-90896826}
+ELLIOTT, CHRIS: {MOBILE=212-999-1234}
+Watkins, Jessica: {EMAIL=monica.j.witt@nasa.gov}
+Wilson, Stephanie: {WEBSITE=www.nasa.gov/specials/artemis-team/}
+personnnn, randomm: {WEBSITE=randommer-person.com}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 5
+
+All Contacts
+------------
+Tingle, Scott
+ELLIOTT, CHRIS
+Watkins, Jessica
+Wilson, Stephanie
+personnnn, randomm
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 6
+
+All Contacts
+------------
+{LINKEDIN, linkedin.com/in/scott-tingle-90896826}
+{MOBILE, 212-999-1234}
+{EMAIL, monica.j.witt@nasa.gov}
+{WEBSITE, www.nasa.gov/specials/artemis-team/}
+{WEBSITE, randommer-person.com}
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 3
+Remove contact:
+  First name: 
+  Last name: 
+The contact's first or last name () was invalid.
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 4
+
+All Contacts
+------------
+Tingle, Scott: {LINKEDIN=linkedin.com/in/scott-tingle-90896826}
+ELLIOTT, CHRIS: {MOBILE=212-999-1234}
+Watkins, Jessica: {EMAIL=monica.j.witt@nasa.gov}
+Wilson, Stephanie: {WEBSITE=www.nasa.gov/specials/artemis-team/}
+personnnn, randomm: {WEBSITE=randommer-person.com}
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 5
+
+All Contacts
+------------
+Tingle, Scott
+ELLIOTT, CHRIS
+Watkins, Jessica
+Wilson, Stephanie
+personnnn, randomm
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 6
+
+All Contacts
+------------
+{LINKEDIN, linkedin.com/in/scott-tingle-90896826}
+{MOBILE, 212-999-1234}
+{EMAIL, monica.j.witt@nasa.gov}
+{WEBSITE, www.nasa.gov/specials/artemis-team/}
+{WEBSITE, randommer-person.com}
+
+
+
+Contact Manager Menu
+--------------------
+1 - Search for a contact
+2 - Add a new contact
+3 - Remove contact
+4 - List all information for all contacts
+5 - List all contact names
+6 - List all contact communications
+---
+7 - End this contact manager session.
+
+Menu choice: 7
