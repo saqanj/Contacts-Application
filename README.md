@@ -5,5 +5,8 @@
   - Implemented Classes:
     - BinarySearchTreeMap
     - ContactsApp
+  - Sample Program Output:
+    - Included as "SampleOutput.txt". If the program is launched from the main, an identical output can be produced in the 
+      console. The .txt file tests all cases addressed in the program for managaing the contact directory. 
 - VERSION: 1.0.0
 - PS: Source code is located under "Project2/src" directory!
